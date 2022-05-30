@@ -82,7 +82,4 @@ function checkEmail(email) {
     email
  );
 
- function sendForm() {
-  alert("djfkjdsfhksd");
- }
 }
